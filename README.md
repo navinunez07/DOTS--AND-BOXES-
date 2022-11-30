@@ -11,7 +11,7 @@
 
 ## GUIA DE INSTALACION:  
       •	Descargar los archivos del código del repositorio de GitHub, de siguiente link:  
-         https://github.com/navinunez07/DOTS--AND-BOXES-.git
+                https://github.com/navinunez07/DOTS--AND-BOXES-.git
       •	Guardar los archivos en una sola carpeta.    
       •	Configurar la consola para la impresión del juego.
       •	Ejecutar el juego.  
