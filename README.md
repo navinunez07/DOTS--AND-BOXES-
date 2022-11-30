@@ -31,7 +31,7 @@
 ### DIAGRAMA DE CLASE:  
   ![Diagrama en blanco](https://user-images.githubusercontent.com/119469386/204703528-aa3fcbb2-6c28-4fcf-b363-1ed3c80b873c.jpeg)
   LINK DEL VIDEO DE PRESENTACION:  
-
+  https://www.youtube.com/watch?v=MbGofZjGUz4&ab_channel=CICLO2UTEC%2B%2B
 ### AUTORES:  
     •	IVAN MANUEL NUÑEZ SOTO
     •	KEVIN RAMIREZ
