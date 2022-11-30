@@ -1,6 +1,6 @@
-# Dots and Boxes  
-
-  Dots and Boxes es un juego muy entretenido y sencillo, originalmente se jugaba en una hoja de papel en el que
+# TIMBIRICHE++ 
+<img width="263" alt="logo_oficial" src="https://user-images.githubusercontent.com/119469386/204888258-24092e3e-ee72-4d00-ab6b-6d737fc1c1fe.png">
+  TIMBIRICHE++ es un juego muy entretenido y sencillo basado en Dots and Boxes, originalmente se jugaba en una hoja de papel en el que
   participaban 2 o más jugadores. En esta ocasión presentaremos Dots and Boxes versión digital, pero de una manera
   mas divertida, ya que no necesitaras de alguien mas para poder jugarlo, ya que contara con una opción de un 
   solo jugador vs el Bot del ordenador.  
@@ -41,5 +41,6 @@
     •	YULISA CALLE  
 ### REFEREBCIAS BIBLIGRAFICAS:  
   •	Programación, D. [@deividcopteroPLUS]. (2013, 30 de junio). Biblioteca Windows.h| Crear la función gotoxy + explicación| C++ . YouTube. https://www.youtube.com/watch?v=evmIH4nyTgE
-  •	Programación, D. [@deividcopteroPLUS]. (2013, junio 30). Biblioteca Windows.h | Crear la función gotoxy + explicación | C++. Youtube. https://www.youtube.com/watch?v=evmIH4nyTgE
+  •	Programación, D. [@deividcopteroPLUS]. (2013, junio 30). Biblioteca Windows.h | Crear la función gotoxy + explicación | C++. Youtube. https://www.youtube.com/watch?v=evmIH4nyTgE  
+  • GameForYourMind.(11 de Diciembre del 2011). Dots and Boxes.GameForYourMind. Extraido de: https://www.gamesforyoungminds.com/blog/2018/12/23/dots-and-boxes
 
