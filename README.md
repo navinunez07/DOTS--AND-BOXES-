@@ -39,7 +39,7 @@
     •	ROXANA CCOCHACHI 
     •	ANDREA PÉREZ
     •	YULISA CALLE  
-### REFEREBCIAS BIBLIGRAFICAS:  
+### REFERENCIAS BIBLIGRAFICAS:  
   •	Programación, D. [@deividcopteroPLUS]. (2013, 30 de junio). Biblioteca Windows.h| Crear la función gotoxy + explicación| C++ . YouTube. https://www.youtube.com/watch?v=evmIH4nyTgE
   •	Programación, D. [@deividcopteroPLUS]. (2013, junio 30). Biblioteca Windows.h | Crear la función gotoxy + explicación | C++. Youtube. https://www.youtube.com/watch?v=evmIH4nyTgE  
   • GameForYourMind.(11 de Diciembre del 2011). Dots and Boxes.GameForYourMind. Extraido de: https://www.gamesforyoungminds.com/blog/2018/12/23/dots-and-boxes
